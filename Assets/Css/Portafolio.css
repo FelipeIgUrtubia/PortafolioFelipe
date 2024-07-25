@@ -1,0 +1,76 @@
+.Nombre {
+  text-align: center;
+  color: black;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 25px;
+  padding: 25px;
+}
+p {
+  text-align: center;
+}
+.Fotoperfil {
+  text-align: center;
+  border-radius: 50%;
+  padding: 100px;
+}
+
+.Rounded {
+  border-radius: 50%;
+}
+
+.Párrafo1 {
+    text-align: justify center;
+}
+
+.Párrafo2 {
+    text-align: justify center;
+}
+.Experiencia1 {
+    border-left: 250px solid rgb(25, 118, 122); 
+    border-right: 250px solid rgb(25, 118, 122);
+}
+.Fecha1 {
+    border-left: 1px solid rgb(25, 118, 122);
+    border-right: 250px solid rgb(25, 118, 122);
+}
+.Descripción1 {
+    border-left: 250px solid rgb(25, 118, 122);
+    border-right: 250px solid rgb(25, 118, 122);
+    text-align: justify center;
+}
+.Formulario {
+    border-left: 250px solid rgb(25, 118, 122);
+    border-right: 250 solid rgb(25, 118, 122);
+    padding: 100px;
+}
+.Proyectos {
+    border-left: 250px solid rgb(25, 118, 122);
+    border-right: 250px solid rgb(25, 118, 122);
+}
+.Roundedproyecto {
+    border-radius: 15%;
+}
+#Card1 {
+    text-align: center;
+    border-left: 250px;
+} 
+.card-body {
+    border-left: 50%;
+}
+.Footer {
+    text-align: justify center;
+    border-left: 900px solid rgb(25, 118, 122);
+    border-right: 800px solid rgb(25, 118, 122);
+}
+.botones {
+    border: 10px;
+    padding-inline: 100px;
+}
+.btn-clicked {
+    background-color: #5cb85c !important; 
+    transition: background-color 0.5s ease;
+  }
+  
